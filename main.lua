@@ -1,7 +1,4 @@
---By BinaryH
-
-
--- Instances:
+-- DasAerche
 
 local VersusExploitHub = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
@@ -9,9 +6,9 @@ local Title = Instance.new("TextLabel")
 local ArsenalHub = Instance.new("TextButton")
 local Alinity_Hub = Instance.new("TextButton")
 
---Properties:
 
-VersusExploitHub.Name = "Aether ScriptHub"
+
+VersusExploitHub.Name = "Aerche ScriptHub"
 VersusExploitHub.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 
 Frame.Parent = VersusExploitHub
@@ -28,7 +25,7 @@ Title.BorderSizePixel = 0
 Title.Position = UDim2.new(-0.000831653248, 0, -0.00177717209, 0)
 Title.Size = UDim2.new(0, 310, 0, 48)
 Title.Font = Enum.Font.SpecialElite
-Title.Text = "Aether ScriptHub"
+Title.Text = "Aerche ScriptHub"
 Title.TextColor3 = Color3.fromRGB(184, 184, 184)
 Title.TextScaled = true
 Title.TextSize = 14.000

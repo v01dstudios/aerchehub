@@ -66,3 +66,6 @@ TextButton.TextColor3 = Color3.fromRGB(104, 0, 0)
 TextButton.TextScaled = true
 TextButton.TextSize = 14.000
 TextButton.TextWrapped = true
+TextButton.MouseButton1Click:Connect(function()
+	loadstring(game:HttpGet('', true))()
+end)

@@ -67,5 +67,5 @@ TextButton.TextScaled = true
 TextButton.TextSize = 14.000
 TextButton.TextWrapped = true
 TextButton.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet('', true))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/v01dstudios/aerchehub/v01d/classiclagger.lua', true))()
 end)
